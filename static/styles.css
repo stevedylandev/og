@@ -281,11 +281,7 @@ label, .label {
         gap: 1rem;
     }
 
-    .check-form {
-        flex-direction: column;
-    }
-
-    .tag-item {
+.tag-item {
         flex-direction: column;
         gap: 0.25rem;
     }
