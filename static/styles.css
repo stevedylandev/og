@@ -84,6 +84,7 @@ a:hover {
 
 .check-form {
     display: flex;
+    flex-wrap: nowrap;
     gap: 0.5rem;
     width: 100%;
 }
@@ -111,6 +112,8 @@ a:hover {
     border: 1px solid white;
     cursor: pointer;
     width: fit-content;
+    flex-shrink: 0;
+    white-space: nowrap;
     font-size: 14px;
     font-weight: 700;
     border-radius: 0;
