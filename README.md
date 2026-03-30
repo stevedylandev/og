@@ -1,6 +1,6 @@
 # OG
 
-![cover](https://files.stevedylan.dev/og-demo.png)
+![cover](https://files.stevedylan.dev/og-demo-1.png)
 
 A simple web tool for inspecting Open Graph tags on any URL.
 
