@@ -4,6 +4,9 @@
 
 A simple web tool for inspecting Open Graph tags on any URL.
 
+>[!NOTE]
+>OG is now part of [Andromeda](https://github.com/stevedylandev/andromeda)
+
 ## Running Locally
 
 ```bash
